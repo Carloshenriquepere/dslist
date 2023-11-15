@@ -3,7 +3,7 @@
 
 ---
 
-Na primeira aula aprendi os conceitos de:
+Na primeira aula aprendi os conceitos de:<br>
 -Sistemas web e recursos
 -Cliente/Servidor, HTTP, JSON
 -Padrão Rest para API web
