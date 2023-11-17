@@ -42,4 +42,9 @@ Essa parte de produção na nuvem eu optei por assistir pois o Railway disponibi
 - Processo de deploy com CI/CD
 - Configuração de CORS
 
+---
+
+Na quarta aula aprendi como mover de posição os jogos dentro da suas respectivas plataforma usando POST para fazer um update. 
+Removendo o jogo da sua posição e realocando na posição que eu quero usando a lógica.
+
 
